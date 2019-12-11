@@ -1,8 +1,5 @@
 backend:
-  name: git-gateway # Refer to https://www.netlifycms.org/docs/authentication-backends/ for auth backend list and instructions
-  accept_roles: #optional - accepts all users if left out
-    - admin
-    - editor
+  name: github # Refer to https://www.netlifycms.org/docs/authentication-backends/ for auth backend list and instructions
   branch: master # Branch to update
   repo: Akshay80/material-blog # Repo for pushing new commits. Make sure to replace with your repo!
 
