@@ -40,23 +40,23 @@ class SocialLinks extends Component {
             {count => renderShareCount(count)}
           </RedditShareCount>
         </RedditShareButton>
-        <TwitterShareButton url={url} title={post.title}>
+        <TwitterShareButton url='https://www.twitter.com/supportgenie/' title={post.title}>
           <TwitterIcon round size={iconSize} />
         </TwitterShareButton>
-        <GooglePlusShareButton url={url}>
+        <GooglePlusShareButton url='https://www.googleplus.com/supportgenie/'>
           <GooglePlusIcon round size={iconSize} />
           <GooglePlusShareCount url={url}>
             {count => renderShareCount(count)}
           </GooglePlusShareCount>
         </GooglePlusShareButton>
-        <FacebookShareButton url={url} quote={postNode.excerpt}>
+        <FacebookShareButton url='https://www.facebook.com/supportgenie/' quote={postNode.excerpt}>
           <FacebookIcon round size={iconSize} />
           <FacebookShareCount url={url}>
             {count => renderShareCount(count)}
           </FacebookShareCount>
         </FacebookShareButton>
         <LinkedinShareButton
-          url={url}
+          url='https://www.linkedin.com/supportgenie/'
           title={post.title}
           description={postNode.excerpt}
         >
@@ -65,7 +65,7 @@ class SocialLinks extends Component {
             {count => renderShareCount(count)}
           </LinkedinShareCount>
         </LinkedinShareButton>
-        <TelegramShareButton url={url}>
+        <TelegramShareButton url='https://www.telegram.com/supportgenie/'>
           <TelegramIcon round size={iconSize} />
         </TelegramShareButton>
       </div>

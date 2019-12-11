@@ -19,14 +19,14 @@ export default class PostSuggestions extends Component {
           </FontIcon>
           <div className="headline-container hide-on-mobile">
             <h2 className="md-body-2 secondary-color">Previous</h2>
-            <h6 className="md-headline secondary-color">{prevTitle}</h6>
+            <h6 className="md-headline secondary-color">{}</h6>
           </div>
         </Link>
         <Link to={nextSlug} className="post-suggestion">
-          <div className="headline-container">
+          {/* <div className="headline-container"> */}
             <h2 className="md-body-2 secondary-color">Next</h2>
-            <h6 className="md-headline secondary-color">{nextTitle}</h6>
-          </div>
+            <h6 className="md-headline secondary-color">{}</h6>
+          {/* </div> */}
           <FontIcon
             forceFontSize
             forceSize={64}

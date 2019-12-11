@@ -1,10 +1,10 @@
 const config = {
-  siteTitle: "Gatsby Material Starter", // Site title.
-  siteTitleShort: "GM Starter", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
-  siteTitleAlt: "GatsbyJS Material Starter", // Alternative site title for SEO.
+  siteTitle: "Support Genie Blog", // Site title.
+  siteTitleShort: "SG", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
+  siteTitleAlt: "Blog of Support Genie", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
-  siteUrl: "https://vagr9k.github.io", // Domain of your website without pathPrefix.
-  pathPrefix: "/gatsby-material-starter", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
+  siteUrl: "https://Akshay80/github.io", // Domain of your website without pathPrefix.
+  pathPrefix: "/material-blog", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   fixedFooter: false, // Whether the footer component is fixed, i.e. always visible
   siteDescription: "A GatsbyJS stater with Material design in mind.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
@@ -14,13 +14,13 @@ const config = {
   postDefaultCategoryID: "Tech", // Default category for posts.
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
   dateFormat: "DD/MM/YYYY", // Date format for display.
-  userName: "Material User", // Username to display in the author segment.
-  userEmail: "MaterialUser@example.com", // Email used for RSS feed's author segment
+  userName: "Mark", // Username to display in the author segment.
+  userEmail: "Mark@gmail.com", // Email used for RSS feed's author segment
   userTwitter: "", // Optionally renders "Follow Me" in the UserInfo segment.
-  userLocation: "North Pole, Earth", // User location to display in the author segment.
-  userAvatar: "https://api.adorable.io/avatars/150/test.png", // User avatar to display in the author segment.
+  userLocation: "Dehradun, India", // User location to display in the author segment.
+  userAvatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTib0ZNYUFEGYVtqud2Lt7wMavbDOzrB3aSwSNx7zD9XVM8sL5ryQ&sz", // User avatar to display in the author segment.
   userDescription:
-   'Hi this is User Site!',
+    "Hi! Lucky to have you here. Please feel free to read the blogs.",
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {

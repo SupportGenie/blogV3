@@ -103,7 +103,7 @@ export default class Navbar extends React.Component {
         });
     }
     navigateToPricing() {
-        navigate('/pricing', { replace: true });
+        navigate('https://test.supportgenie.io/pricing', { replace: true });
     }
     render() {
         const { loggedIn, emailSent, resetEmailAddress } = this.state;
@@ -201,27 +201,27 @@ export default class Navbar extends React.Component {
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li>
-                                        <Link to="features/overview">Overview</Link>
+                                        <a href = "https://test.supportgenie.io/features/overview">Overview</a>
                                     </li>
                                     <li>
-                                        <Link to="features/omni-channel">Omni-Channel Support</Link>
+                                        <a href="https://test.supportgenie.io/features/omni-channel">Omni-Channel Support</a>
                                     </li>
                                     <li>
-                                        <Link to="features/agent-portal">Fully Featured Agent Portal</Link>
+                                        <a href="https://test.supportgenie.io/features/agent-portal">Fully Featured Agent Portal</a>
                                     </li>
                                     <li>
-                                        <Link to="features/chat-bots">Artificial Intelligence and Chat Bots</Link>
+                                        <a href ="https://test.supportgenie.io/features/chat-bots">Artificial Intelligence and Chat Bots</a>
                                     </li>
                                     <li>
-                                        <Link to="features/visual-assistance">Visual Assistance</Link>
+                                        <a href="https://test.supportgenie.io/features/visual-assistance">Visual Assistance</a>
                                     </li>
                                     <li>
-                                        <Link to="features/enhance-contact">Enhance Your Contact Center</Link>
+                                        <a href="https://test.supportgenie.io/features/enhance-contact">Enhance Your Contact Center</a>
                                     </li>
                                 </ul>
                             </li>
                             <li>
-                                <Link to="pricing">Price</Link>
+                                <a href ="https://test.supportgenie.io/pricing">Price</a>
                             </li>
                             <li>
                                 <a href="https://blog.supportgenie.io" style={{ color: '#FFFFFF' }}>
@@ -230,16 +230,16 @@ export default class Navbar extends React.Component {
                             </li>
                             <li>
                                 {' '}
-                                <Link to="about">About</Link>
+                                <a href="https://test.supportgenie.io/about">About</a>
                             </li>
                             {/* <li style={{ display: none }}>
                                 {' '}
                                 <Link to="profile">Profile</Link>
                             </li> */}
                             <li>
-                                <Link to="contactus" id="navigateToContact">
+                                <a href="https://test.supportgenie.io/contactus" id="navigateToContact">
                                     Contact Us
-                                </Link>
+                                </a>
                             </li>
                             <li
                                 className={'dropdown sign_border '}
