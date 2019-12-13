@@ -108,6 +108,7 @@ export default class Navbar extends React.Component {
     render() {
         const { loggedIn, emailSent, resetEmailAddress } = this.state;
         return (
+            <div className="support-genie-background" id="sg-background">
             <nav className="navbar navbar-default navbar-background first_header">
                 <div id="pwdModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
                     <div class="modal-dialog" style={{ width: '450px' }}>
@@ -181,9 +182,9 @@ export default class Navbar extends React.Component {
                             <span className="icon-bar"></span>
                             <span className="icon-bar"></span>
                         </button>
-                        <Link to="/" className="navbar-brand">
+                        <a href ="https://test.supportgenie.io" className="navbar-brand"> 
                             <img src={sg_logo}></img>
-                        </Link>
+                        </a>
                     </div>
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav navbar-right">
@@ -221,10 +222,10 @@ export default class Navbar extends React.Component {
                                 </ul>
                             </li>
                             <li>
-                                <a href ="https://test.supportgenie.io/pricing">Price</a>
+                                <a href ="https://test.supportgenie.io/pricing">Price</a> 
                             </li>
                             <li>
-                                <a href="https://blog.supportgenie.io" style={{ color: '#FFFFFF' }}>
+                                <a href="https://blog.supportgenie.io" style={{ color: '#f59d23'}}>
                                     Blog
                                 </a>
                             </li>
@@ -300,8 +301,8 @@ export default class Navbar extends React.Component {
                                                 </a><br/> */}
                                             </div>
                                         </div>
-                                    )}
-                                    {loggedIn == '' ? (
+                                    )} 
+                                     {loggedIn == '' ? (
                                         <ul className="dropdown-menu">
                                             <form className="navbar-form" role="signup" formGroup="signInForm">
                                                 {/*<form className="navbar-form" role="signup" [formGroup]="signInForm" (ngSubmit)="customerSignIn()"> */}
@@ -349,9 +350,11 @@ export default class Navbar extends React.Component {
                                 </button>
                             </li>
                         </ul>
+                    
                     </div>
                 </div>
             </nav>
+        </div>
         );
     }
 }

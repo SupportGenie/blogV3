@@ -2,7 +2,7 @@ const config = {
   siteTitle: "Support Genie Blog", // Site title.
   siteTitleShort: "SG", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "Blog of Support Genie", // Alternative site title for SEO.
-  siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
+  siteLogo: "../logos/logo-1024.png", // Logo used for SEO and manifest.
   siteUrl: "https://Akshay80/github.io", // Domain of your website without pathPrefix.
   pathPrefix: "/material-blog", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   fixedFooter: false, // Whether the footer component is fixed, i.e. always visible

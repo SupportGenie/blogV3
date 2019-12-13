@@ -139,7 +139,7 @@ ul.customer-anywhere-subtext{
 }
 @media screen and (min-width: 1600px) {
 	.support-genie-background{
-		background-size: 100% 20%;
+		background-size: 100%;
 	} 
 	.profile_bg.support-genie-background {
 		background-size: cover !important;

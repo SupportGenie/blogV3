@@ -1,13 +1,25 @@
 .navbar-menu-item {
     color: #ffffff;
 }
-.support-genie-background {
+#sg-background {
     /*background-image: linear-gradient(-149deg, #4A90E2 0%, #8E94FB 77%);*/
-    background: url(../images/bg.png);
-    background-repeat: no-repeat;
-    /*background-size: contain;*/
+     background-image: url(../images/bg.png);
+    /* background-repeat: no-repeat; */
+    /* background-size: contain; */
     background-size: 100% 20%;
 }
+.support-genie-background{
+background:url(../images/bg.png);
+background-position-x: initial;
+background-position-y: initial;
+background-repeat: initial;
+background-attachment: initial;
+background-origin: initial;
+background-clip: initial;
+background-color: initial;
+    /* background-repeat: no-repeat; */
+}
+
 .get-started-button {
     background: #f59d23;
     /*border-radius: 0 3px 3px 0;*/
@@ -111,6 +123,15 @@
 /* .navbar-collapse ul.dropdown-menu li a{
     font-size:11px;
 } */
+
+
+@media screen and (max-width: 1367px){
+    .support-genie-background {
+    background-size: contain!important;
+}
+}
+
+
 @media screen and (max-width: 1199px) {
     .first_header .nav > li > a {
         padding: 15px 11px;
