@@ -1,5 +1,5 @@
 const config = {
-  siteTitle: "Support Genie Blog", // Site title.
+  siteTitle: "Support Genie | Blog", // Site title.
   siteTitleShort: "SG", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "Blog of Support Genie", // Alternative site title for SEO.
   siteLogo: "../logos/logo-1024.png", // Logo used for SEO and manifest.
