@@ -103,7 +103,7 @@ export default class Navbar extends React.Component {
         });
     }
     navigateToPricing() {
-        navigate('https://test.supportgenie.io/pricing', { replace: true });
+        navigate('https://supportgenie.io/pricing', { replace: true }); 
     }
     render() {
         const { loggedIn, emailSent, resetEmailAddress } = this.state;
@@ -182,7 +182,7 @@ export default class Navbar extends React.Component {
                             <span className="icon-bar"></span>
                             <span className="icon-bar"></span>
                         </button>
-                        <a href ="https://test.supportgenie.io" className="navbar-brand"> 
+                        <a href ="https://supportgenie.io" className="navbar-brand"> 
                             <img src={sg_logo}></img>
                         </a>
                     </div>
@@ -202,27 +202,27 @@ export default class Navbar extends React.Component {
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li>
-                                        <a href = "https://test.supportgenie.io/features/overview">Overview</a>
+                                        <a href = "https://supportgenie.io/features/overview">Overview</a>
                                     </li>
                                     <li>
-                                        <a href="https://test.supportgenie.io/features/omni-channel">Omni-Channel Support</a>
+                                        <a href="https://supportgenie.io/features/omni-channel">Omni-Channel Support</a>
                                     </li>
                                     <li>
-                                        <a href="https://test.supportgenie.io/features/agent-portal">Fully Featured Agent Portal</a>
+                                        <a href="https://supportgenie.io/features/agent-portal">Fully Featured Agent Portal</a>
                                     </li>
                                     <li>
-                                        <a href ="https://test.supportgenie.io/features/chat-bots">Artificial Intelligence and Chat Bots</a>
+                                        <a href ="https://supportgenie.io/features/chat-bots">Artificial Intelligence and Chat Bots</a>
                                     </li>
                                     <li>
-                                        <a href="https://test.supportgenie.io/features/visual-assistance">Visual Assistance</a>
+                                        <a href="https://supportgenie.io/features/visual-assistance">Visual Assistance</a>
                                     </li>
                                     <li>
-                                        <a href="https://test.supportgenie.io/features/enhance-contact">Enhance Your Contact Center</a>
+                                        <a href="https://supportgenie.io/features/enhance-contact">Enhance Your Contact Center</a>
                                     </li>
                                 </ul>
                             </li>
                             <li>
-                                <a href ="https://test.supportgenie.io/pricing">Price</a> 
+                                <a href ="https://supportgenie.io/pricing">Price</a> 
                             </li>
                             <li>
                                 <a href="https://blog.supportgenie.io" style={{ color: '#f59d23'}}>
@@ -231,14 +231,14 @@ export default class Navbar extends React.Component {
                             </li>
                             <li>
                                 {' '}
-                                <a href="https://test.supportgenie.io/about">About</a>
+                                <a href="https://supportgenie.io/about">About</a>
                             </li>
                             {/* <li style={{ display: none }}>
                                 {' '}
                                 <Link to="profile">Profile</Link>
                             </li> */}
                             <li>
-                                <a href="https://test.supportgenie.io/contactus" id="navigateToContact">
+                                <a href="https://supportgenie.io/contactus" id="navigateToContact">
                                     Contact Us
                                 </a>
                             </li>
