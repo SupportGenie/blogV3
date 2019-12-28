@@ -174,12 +174,12 @@ module.exports = {
             query: `
             {
               allMarkdownRemark(
-                limit: 1000,
+                limit: 10000,
                 sort: { order: DESC, fields: [frontmatter___date] },
               ) {
                 edges {
                   node {
-                    excerpt
+                    excerpt(pruneLength: 880)
                     html
                     timeToRead
                     fields { slug }

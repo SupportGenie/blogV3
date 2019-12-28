@@ -67,7 +67,9 @@ class PostPreview extends Component {
         />
 
         <CardText expandable={expand}>
+          <div className="styling">
           {postInfo.excerpt}
+        </div>
           <PostTags tags={postInfo.tags} />
         </CardText>
       </Card>
