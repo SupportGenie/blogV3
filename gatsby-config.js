@@ -11,6 +11,7 @@ module.exports = {
       site_url: urljoin(config.siteUrl, config.pathPrefix),
       feed_url: urljoin(config.siteUrl, config.pathPrefix, config.siteRss),
       title: config.siteTitle,
+      description: config.siteDescription,
       image_url: `${urljoin(
         config.siteUrl,
         config.pathPrefix
@@ -108,6 +109,7 @@ module.exports = {
       options: {
         name: config.siteTitle,
         short_name: config.siteTitleShort,
+        description: config.siteDescription,
         start_url: config.pathPrefix,
         background_color: "#e0e0e0",
         theme_color: "#c62828",
