@@ -2,9 +2,9 @@ backend:
   name: github # Refer to https://www.netlifycms.org/docs/authentication-backends/ for auth backend list and instructions
   branch: master # Branch to update
   repo: SupportGenie/blogV3 # Repo for pushing new commits. Make sure to replace with your repo!
-  publish_mode: editorial_workflow
   open_authoring: true
 
+publish_mode: editorial_workflow
 media_folder: static/assets
 public_folder: assets
 
