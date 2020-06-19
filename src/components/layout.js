@@ -1,6 +1,8 @@
 import React from "react";
 import { Link, useStaticQuery, graphql } from "gatsby";
 import Navigation from "../components/navigation";
+import Footer from "../components/footer";
+import "../css/footer.css";
 import "prismjs/themes/prism-okaidia.css";
 import "../css/style.css";
 import "../css/navbar.css";
@@ -29,15 +31,17 @@ export default ({ children }) => {
         {/* </header> */}
         {children}
         <footer className="site-footer">
-          <p>
+          {/* <p>
             &copy; {new Date().getFullYear()} &bull; Copyrighted{" "}
             {/* <span role="img" aria-label="love">
               ❤️
             </span>{" "} */}
-            by <a href="https://supportgenie.io">SupportGenie</a>
-          </p>
+
+          {/* by <a href="https://supportgenie.io">SupportGenie</a>
+          </p> */}
         </footer>
       </div>
+      <Footer />
     </>
   );
 };

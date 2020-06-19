@@ -14,7 +14,7 @@ export default ({ data }) => {
           <div className="width_20 footer-column-alignment">
             <h4 className="footer-header">PRODUCT</h4>
             <div>
-              <Link to="features/overview" className="footer-items">
+              <Link to="#" className="footer-items">
                 {" "}
                 Features{" "}
               </Link>
@@ -25,7 +25,7 @@ export default ({ data }) => {
               </a>
             </div>
             <div>
-              <Link to="pricing" className="footer-items">
+              <Link to="#" className="footer-items">
                 {" "}
                 Pricing{" "}
               </Link>
