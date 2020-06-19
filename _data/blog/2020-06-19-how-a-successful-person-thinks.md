@@ -6,13 +6,11 @@ title: How a Successful Person thinks
 metaDescription: How a successful person gonna think. This is what it says.
 thumbnail: /assets/success.jpg
 ---
-<!--StartFragment-->
+
+
+<iframe width="560" height="315" src="<https://youtu.be/0LfM9ZPGmVY>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--StartFragment-->
-
-<https://youtu.be/0LfM9ZPGmVY>
-
-<!--EndFragment-->
 
 I believe there’s a huge difference in the way successful people and [unsuccessful people](http://www.success.com/article/5-reasons-you-arent-successful) think. And I believe that success itself is not some big mystery that people haven’t figured out before. Even though when we’re struggling and fighting and trying to make it day by day to get better, it can feel like this arduous un-noble process. Success has been figured out—and it’s a mindset game.
 
