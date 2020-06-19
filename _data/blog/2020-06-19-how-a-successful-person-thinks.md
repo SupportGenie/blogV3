@@ -8,10 +8,6 @@ thumbnail: /assets/success.jpg
 ---
 I believe there’s a huge difference in the way successful people and [unsuccessful people](http://www.success.com/article/5-reasons-you-arent-successful) think. And I believe that success itself is not some big mystery that people haven’t figured out before. Even though when we’re struggling and fighting and trying to make it day by day to get better, it can feel like this arduous un-noble process. Success has been figured out—and it’s a mindset game.
 
-
-
-<iframe width="560" height="315" src="<https://www.youtube.com/watch?v=0LfM9ZPGmVY&t=15s>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 \*Related:**\*[5 Things You Need for a Successful Mindset](http://www.success.com/article/5-things-you-need-for-a-successful-mindset)**
 
 Most of success is just about how we use our psychology.
