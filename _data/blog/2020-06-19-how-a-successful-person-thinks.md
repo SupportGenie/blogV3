@@ -8,11 +8,15 @@ thumbnail: /assets/success.jpg
 ---
 <!--StartFragment-->
 
-[](https://youtu.be/0LfM9ZPGmVY)[](https://youtu.be/0LfM9ZPGmVY)
+<!--StartFragment-->
+
+<https://youtu.be/0LfM9ZPGmVY>
+
+<!--EndFragment-->
 
 I believe there’s a huge difference in the way successful people and [unsuccessful people](http://www.success.com/article/5-reasons-you-arent-successful) think. And I believe that success itself is not some big mystery that people haven’t figured out before. Even though when we’re struggling and fighting and trying to make it day by day to get better, it can feel like this arduous un-noble process. Success has been figured out—and it’s a mindset game.
 
-*Related:***[5 Things You Need for a Successful Mindset](http://www.success.com/article/5-things-you-need-for-a-successful-mindset)**
+\*Related:**\*[5 Things You Need for a Successful Mindset](http://www.success.com/article/5-things-you-need-for-a-successful-mindset)**
 
 Most of success is just about how we use our psychology.
 
@@ -34,7 +38,7 @@ They say three types of things specifically:
 
 Everybody dreams. You dream, I dream, successful people dream. Everybody dreams and has a vision. Everyone, if we could just take five minutes and think about their lives, we could all come up with ways to improve our lives and reach another level of success, joy, happiness, achievement, contribution, fulfillment and soul. We can all elevate. The challenge is that unsuccessful people keep stopping when they think of what they currently know, have or are.
 
-*Related:***[4 Things Successful People Don’t Do](http://www.success.com/blog/4-things-successful-people-dont-do)**
+\*Related:**\*[4 Things Successful People Don’t Do](http://www.success.com/blog/4-things-successful-people-dont-do)**
 
 However, successful people say, “I want to do that, but I don’t know how,” and instead of stopping, they say, “Then my job is to go learn that.” They take their current limitation and put it on their agenda as a job to do, as a thing to figure out and make happen. Instead of saying, “I don’t have that,” they say, “Then my job is to go build that.” Instead of saying “I’m not like that,” they say, “My job is to go become more of that,[become that person](http://www.success.com/article/rohn-better-is-something-you-become)who could accomplish those things.”
 
