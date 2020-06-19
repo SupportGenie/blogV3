@@ -6,13 +6,11 @@ title: How a Successful Person thinks
 metaDescription: How a successful person gonna think. This is what it says.
 thumbnail: /assets/success.jpg
 ---
-
-
-<iframe width="560" height="315" src="<https://youtu.be/0LfM9ZPGmVY>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!--StartFragment-->
-
 I believe there’s a huge difference in the way successful people and [unsuccessful people](http://www.success.com/article/5-reasons-you-arent-successful) think. And I believe that success itself is not some big mystery that people haven’t figured out before. Even though when we’re struggling and fighting and trying to make it day by day to get better, it can feel like this arduous un-noble process. Success has been figured out—and it’s a mindset game.
+
+
+
+<iframe width="560" height="315" src="<https://www.youtube.com/watch?v=0LfM9ZPGmVY&t=15s>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 \*Related:**\*[5 Things You Need for a Successful Mindset](http://www.success.com/article/5-things-you-need-for-a-successful-mindset)**
 
@@ -63,5 +61,3 @@ At some point in your life, you have to give yourself permission to become your 
 The next time you’re thinking about a big dream, stop and think,*I don’t know how*, and then set it up on your calendar to go learn those things.*I don’t have that.*Then set it up to build that.*I’m not like that.*Then set it up step by step to develop the skillsets and competencies you need so you can become that and ultimately[achieve your dream](http://www.success.com/article/17-motivational-quotes-to-help-you-achieve-your-dreams).
 
 It’s there and waiting for you; don’t stop!
-
-<!--EndFragment-->
