@@ -10,9 +10,8 @@ metaDescription: >-
   ever-desired objective—brand reputation.
 thumbnail: /assets/ai-service.jpg
 ---
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5eebfa6e36ca8edc"></script>
-
+<html>
+<body>
 You know the world is changing when a hologram pop star, named <i>Hatsune Miku</i>—driven by an AI autotuning (vocoder), attracts thousands to concerts around the world and actually becomes a singing sensation. Now that's something we never expected, however, a lot of unexpected has taken shape since the conception of Artificial Intelligence. Expected to cross the $200 billion mark in the next five years, AI has already laid the foundation for utmost integration with the human world.
 
 Favorably, the customer services domain is no alien to such growth. The relationship between customer service and AI has long been associated with improved customer satisfaction and a boost in productivity. For this precise reason, this article endeavors to explore their fruitful connection and the perceived opportunities for futuristic innovations.
@@ -80,5 +79,10 @@ With regard to technicality, chatbots will be swifter, rational, creative, innov
 
 All-in-all, your venture will align with your mission and vision—all thanks to the successful integration of customer service and AI.
 
-Harmeet
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5eebfa6e36ca8edc"></script>
+</body>
+</html>
+
 
