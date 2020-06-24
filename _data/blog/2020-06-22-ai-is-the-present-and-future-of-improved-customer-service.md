@@ -3,16 +3,17 @@ template: BlogPost
 path: /ai-present-future-improved-customer-service
 date: 2020-06-22T19:17:14.066Z
 title: AI is the Present and Future of Improved Customer Service
-metaDescription: >-
-  Businesses highly prioritize customer satisfaction, which presents an
-  opportunity for AI to dominate the domain. By adding AI-powered chatbots and
-  virtual assistants to the ranks, businesses can work in favor of their
-  ever-desired objective—brand reputation.
+metaDescription: Businesses highly prioritize customer satisfaction, which
+  presents an opportunity for AI to dominate the domain. By adding AI-powered
+  chatbots and virtual assistants to the ranks, businesses can work in favor of
+  their ever-desired objective—brand reputation.
 thumbnail: /assets/ai-service.jpg
 ---
-`<html>`\
-`<head>`
-You know the world is changing when a hologram pop star, named <i>Hatsune Miku</i>—driven by an AI autotuning (vocoder), attracts thousands to concerts around the world and actually becomes a singing sensation. Now that's something we never expected, however, a lot of unexpected has taken shape since the conception of Artificial Intelligence. Expected to cross the $200 billion mark in the next five years, AI has already laid the foundation for utmost integration with the human world.
+<html>
+
+<body>
+
+ You know the world is changing when a hologram pop star, named <i>Hatsune Miku</i>—driven by an AI autotuning (vocoder), attracts thousands to concerts around the world and actually becomes a singing sensation. Now that's something we never expected, however, a lot of unexpected has taken shape since the conception of Artificial Intelligence. Expected to cross the $200 billion mark in the next five years, AI has already laid the foundation for utmost integration with the human world.
 
 Favorably, the customer services domain is no alien to such growth. The relationship between customer service and AI has long been associated with improved customer satisfaction and a boost in productivity. For this precise reason, this article endeavors to explore their fruitful connection and the perceived opportunities for futuristic innovations.
 
@@ -73,7 +74,8 @@ All-in-all, your venture will align with your mission and vision—all thanks to
 
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 
-`<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5eebfa6e36ca8edc"></script>`
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5eebfa6e36ca8edc"></script>
 
-`</body>
-</html>`
+</body>
+
+</html>
