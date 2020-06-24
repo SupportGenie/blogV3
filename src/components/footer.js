@@ -395,14 +395,14 @@ export default ({ data }) => {
             </p>
           </div>
         </div>
-        {/* <div className="row footer-last-row hidden-md hidden-lg">
+        <div className="row footer-last-row hidden-md hidden-lg">
           <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12 footer-column-alignment">
             <img src={footer_logo} className="footer-logo"></img>
             <p className="copyright">
               &copy; Copyright 2020 Support Genie, Inc.
             </p>
           </div>
-        </div> */}
+        </div>
       </div>
     </div>
   );

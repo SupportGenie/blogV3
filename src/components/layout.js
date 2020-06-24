@@ -1,45 +1,41 @@
 import React from "react";
 import { Link, useStaticQuery, graphql } from "gatsby";
 import Navigation from "../components/navigation";
-import Footer from "../components/footer";
-import "../css/footer.css";
 import "prismjs/themes/prism-okaidia.css";
-import "../css/style.css";
-import "../css/navbar.css";
-
+import Footer from "./footer";
+import Navbar from "./navbar";
 export default ({ children }) => {
-  // const data = useStaticQuery(
-  //   graphql`
-  //     query {
-  //       site {
-  //         siteMetadata {
-  //           title
-  //         }
-  //       }
-  //     }
-  //   `
-  // );
+  const data = useStaticQuery(
+    graphql`
+      query {
+        site {
+          siteMetadata {
+            title
+          }
+        }
+      }
+    `
+  );
   return (
     <>
-      <Navigation />
+      <Navbar />
       <div className="site-wrapper">
-        {/* <header className="site-header"> */}
-        {/* <div className="site-title"> */}
-        {/* <Link to="/">{data.site.siteMetadata.title}</Link> */}
-        {/* </div> */}
-        {/* <Navigation /> */}
-        {/* </header> */}
+        <header className="site-header">
+          <div className="site-title">
+            <Link to="/">{data.site.siteMetadata.title}</Link>
+          </div>
+          <Navigation />
+        </header>
         {children}
-        <footer className="site-footer">
-          {/* <p>
-            &copy; {new Date().getFullYear()} &bull; Copyrighted{" "}
-            {/* <span role="img" aria-label="love">
-              ❤️
-            </span>{" "} */}
-
-          {/* by <a href="https://supportgenie.io">SupportGenie</a>
-          </p> */}
-        </footer>
+        {/* <footer className="site-footer">
+        <p>
+          &copy; {new Date().getFullYear()} Delog &bull; Crafted with{" "}
+          <span role="img" aria-label="love">
+            ❤️
+          </span>{" "}
+          by <a href="https://w3layouts.com">W3Layouts</a>
+        </p>
+      </footer> */}
       </div>
       <Footer />
     </>

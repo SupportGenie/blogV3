@@ -3,10 +3,8 @@ import Helmet from "react-helmet";
 import { graphql } from "gatsby";
 import Layout from "../components/layout";
 import PostLink from "../components/post-link";
-import Footer from "../components/footer";
-import "../css/footer.css";
-// import HeroHeader from "../components/heroHeader";
-// import Navbar from "../components/navbar";
+import HeroHeader from "../components/heroHeader";
+
 const IndexPage = ({
   data: {
     site,
@@ -20,16 +18,12 @@ const IndexPage = ({
   return (
     <Layout>
       <Helmet>
-        <title>Support Genie Blog</title>
-        <meta name="description" content={"Support Genie | Blog"} />
+        <title>Support Genie | Blog</title>
+        <meta name="description" content={site.siteMetadata.description} />
       </Helmet>
-      {/* <HeroHeader /> */}
-      {/* <Navbar /> */}
-      <h2 style={{ fontSize: "28px", fontWeight: "bolder" }}>
-        Blog Posts &darr;
-      </h2>
+      <HeroHeader />
+      <h2 className="h2class">Blog Posts &darr;</h2>
       <div className="grids">{Posts}</div>
-      {/* <Footer /> */}
     </Layout>
   );
 };

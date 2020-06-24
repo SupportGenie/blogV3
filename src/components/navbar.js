@@ -1,5 +1,5 @@
-import "../css/navbar.css";
 import React, { useState, setState } from "react";
+import "../css/navbar.css";
 import "../css/hero.css";
 import sg_logo from "../images/sg_logo.png";
 import { Link } from "gatsby";
