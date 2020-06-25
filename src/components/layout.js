@@ -37,6 +37,11 @@ export default ({ children }) => {
         </p>
       </footer> */}
       </div>
+      {/* <a className="addthis_button_facebook"></a>
+      <a className="addthis_button_twitter"></a>
+      <a className="addthis_button_email"></a>
+      <a className="addthis_button_linkedin"></a>
+      */}
       <Footer />
     </>
   );

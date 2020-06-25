@@ -33,9 +33,18 @@ export default function HTML(props) {
           dangerouslySetInnerHTML={{ __html: props.body }}
         />
         {props.postBodyComponents}
+        {/* <!-- Go to www.addthis.com/dashboard to customize your tools --> */}
+        {/* <div className="addthis_toolbox addthis_default_style addthis_32x32_style">
+          <a className="addthis_button_facebook"></a>
+          <a className="addthis_button_twitter"></a>
+          <a className="addthis_button_email"></a>
+          <a className="addthis_button_linkedin"></a>
+          <a className="addthis_button_compact"></a>
+        </div> */}
         <script
           type="text/javascript"
           src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ef11b51dc41ef48"
+          async="async"
         ></script>
       </body>
     </html>
