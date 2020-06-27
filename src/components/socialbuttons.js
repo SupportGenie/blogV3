@@ -54,7 +54,6 @@ export default (props) => (
       src="//s7.addthis.com/js/300/addthis_widget.js#apubid=ra-5ef11b51dc41ef48"
       async="async"
     ></script>
-    <script type="text/javascript">addthis.init()</script>
     <script type="text/javascript">
       addthis.init(); addthis.button(document.getElementById[('buttons')]);
       addthis.toolbox('.addthis_toolbox')
