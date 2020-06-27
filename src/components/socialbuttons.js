@@ -18,35 +18,35 @@ export default (props) => (
         id="buttons"
         href="https://facebook.com/supportgenie/"
       >
-        <img src={Fb} />
+        <img src={Fb} id="images" />
       </a>
       <a
         className="addthis_button_twitter"
         id="buttons"
         href="https://twitter.com/supportgenie/"
       >
-        <img src={twitter} />
+        <img src={twitter} id="images" />
       </a>
       <a
         className="addthis_button_email"
         id="buttons"
         href="mailto:desk@supportgenie.io"
       >
-        <img src={gmail} />
+        <img src={gmail} id="images" />
       </a>
       <a
         className="addthis_button_linkedin"
         id="buttons"
         href="https://linkedin.com/company/supportgenie/"
       >
-        <img src={linkedin} />
+        <img src={linkedin} id="images" />
       </a>
       <a
         className="addthis_button_instagram"
         id="buttons"
         href="https://instagram.com/supportgenie/"
       >
-        <img src={insta} />
+        <img src={insta} id="images" />
       </a>
     </div>
     <script
