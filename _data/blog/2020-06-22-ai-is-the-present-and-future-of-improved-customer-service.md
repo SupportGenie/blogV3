@@ -10,12 +10,8 @@ metaDescription: >-
   ever-desired objective—brand reputation.
 thumbnail: /assets/ai-service.jpg
 ---
-<<<<<<< HEAD
 
 You know the world is changing when a hologram pop star, named <i>Hatsune Miku</i>—driven by an AI autotuning (vocoder), attracts thousands to concerts around the world and actually becomes a singing sensation. Now that's something we never expected, however, a lot of unexpected has taken shape since the conception of Artificial Intelligence. Expected to cross the \$200 billion mark in the next five years, AI has already laid the foundation for utmost integration with the human world.
-=======
-You know the world is changing when a hologram pop star, named <i>Hatsune Miku</i>—driven by an AI autotuning (vocoder), attracts thousands to concerts around the world and actually becomes a singing sensation. Now that's something we never expected, however, a lot of unexpected has taken shape since the conception of Artificial Intelligence. Expected to cross the $200 billion mark in the next five years, AI has already laid the foundation for utmost integration with the human world.
->>>>>>> 9a6e9943d521d648b53d4c813d51d54ee187361e
 
 Favorably, the customer services domain is no alien to such growth. The relationship between customer service and AI has long been associated with improved customer satisfaction and a boost in productivity. For this precise reason, this article endeavors to explore their fruitful connection and the perceived opportunities for futuristic innovations.
 
@@ -40,9 +36,9 @@ Businesses highly prioritize customer satisfaction, which presents an opportunit
 5. **Urgency detection:** That's right; AI is capable of prioritizing the issues and responding to them in quick succession. This is where AI acts as a prominent tool for customer agents.
 6. **Email regulation:** AI further strengthens the distribution system of emails by tagging them according to the intensity and urgency of the issue. By doing this, it constrains the customer agent solely to resolving the issue and reduces his or her workload.
 
-It is noteworthy that AI presents a win-win scenario for *Human-Technology collaboration* as well as entirely *Technology Dedicated Customer Service.*
+It is noteworthy that AI presents a win-win scenario for _Human-Technology collaboration_ as well as entirely _Technology Dedicated Customer Service._
 
-### What is the future of AI in customer service? 
+### What is the future of AI in customer service?
 
 Safe to say—it is bright. AI does arrive with the danger of a mass layoff; however, little can overshadow its groundbreaking capability. Besides, when the brands are predominantly concentrating on enhanced customer support, AI remains on the top of the list.
 
@@ -66,7 +62,7 @@ Now, this doesn't come as a surprise because chatbots are performing exceptional
 
 The inclusion of chatbots will point towards decreased payroll costs and increased competence. First off, chatbots will come expensive; however, the maintenance wouldn't cost much compared to the remuneration offered to customer service professionals. Second, reduce costs will pave the way for paying high amounts to specialists at eminent seats. With regard to technicality, chatbots will be swifter, rational, creative, innovative, and empathetic—all of which contribute to increased customer satisfaction and exponential ROI.
 
-### Three things we have learned from customer service AI 
+### Three things we have learned from customer service AI
 
 1. Your business will gear up for a venture where relationships are built for prolonged periods. These relationships will develop in accordance with the values you infuse in your technology.
 2. Your business will incline with the dynamic technological domain. In the ever-increasing competition, you'll be able to serve as an imminent contributor to constructive but disruptive change.

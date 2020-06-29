@@ -194,8 +194,10 @@ a {
     font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman",
       Times, serif;
   }
-  .blog-post-content *:last-child b {
-    font-size: 90px;
+  .blog-post-content h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 1.96em;
   }
   .post-title {
     text-align: center;
