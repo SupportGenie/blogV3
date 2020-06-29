@@ -8,7 +8,13 @@ import insta from "../images/insta.png";
 export default (props) => (
   <>
     <div>
-      <h3 style={{ textAlign: "center" }}>
+      <h3
+        style={{
+          textAlign: "center",
+          fontFamily:
+            'medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif',
+        }}
+      >
         <u>Share us on</u> :-
       </h3>
     </div>
