@@ -3,15 +3,13 @@ template: BlogPost
 path: /ai-present-future-improved-customer-service
 date: 2020-06-22T19:17:14.066Z
 title: AI is the Present and Future of Improved Customer Service
-metaDescription: >-
-  Businesses highly prioritize customer satisfaction, which presents an
-  opportunity for AI to dominate the domain. By adding AI-powered chatbots and
-  virtual assistants to the ranks, businesses can work in favor of their
-  ever-desired objective—brand reputation.
+metaDescription: Businesses highly prioritize customer satisfaction, which
+  presents an opportunity for AI to dominate the domain. By adding AI-powered
+  chatbots and virtual assistants to the ranks, businesses can work in favor of
+  their ever-desired objective—brand reputation.
 thumbnail: /assets/ai-service.jpg
 ---
-
-You know the world is changing when a hologram pop star, named <i>Hatsune Miku</i>—driven by an AI autotuning (vocoder), attracts thousands to concerts around the world and actually becomes a singing sensation. Now that's something we never expected, however, a lot of unexpected has taken shape since the conception of Artificial Intelligence. Expected to cross the \$200 billion mark in the next five years, AI has already laid the foundation for utmost integration with the human world.
+You know the world is changing when a hologram pop star, named <i>Hatsune Miku</i>—driven by an AI autotuning (vocoder), attracts thousands to concerts around the world and actually becomes a singing sensation. Now that's something we never expected, however, a lot of unexpected has taken shape since the conception of Artificial Intelligence. Expected to cross the $200 billion mark in the next five years, AI has already laid the foundation for utmost integration with the human world.
 
 Favorably, the customer services domain is no alien to such growth. The relationship between customer service and AI has long been associated with improved customer satisfaction and a boost in productivity. For this precise reason, this article endeavors to explore their fruitful connection and the perceived opportunities for futuristic innovations.
 
@@ -36,7 +34,7 @@ Businesses highly prioritize customer satisfaction, which presents an opportunit
 5. **Urgency detection:** That's right; AI is capable of prioritizing the issues and responding to them in quick succession. This is where AI acts as a prominent tool for customer agents.
 6. **Email regulation:** AI further strengthens the distribution system of emails by tagging them according to the intensity and urgency of the issue. By doing this, it constrains the customer agent solely to resolving the issue and reduces his or her workload.
 
-It is noteworthy that AI presents a win-win scenario for _Human-Technology collaboration_ as well as entirely _Technology Dedicated Customer Service._
+It is noteworthy that AI presents a win-win scenario for *Human-Technology collaboration* as well as entirely *Technology Dedicated Customer Service.*
 
 ### What is the future of AI in customer service?
 
@@ -60,7 +58,7 @@ Now, this doesn't come as a surprise because chatbots are performing exceptional
 
 ### Generation of exponential ROI
 
-The inclusion of chatbots will point towards decreased payroll costs and increased competence. First off, chatbots will come expensive; however, the maintenance wouldn't cost much compared to the remuneration offered to customer service professionals. Second, reduce costs will pave the way for paying high amounts to specialists at eminent seats. With regard to technicality, chatbots will be swifter, rational, creative, innovative, and empathetic—all of which contribute to increased customer satisfaction and exponential ROI.
+The inclusion of chatbots will point towards decreased payroll costs and increased competence. First off, chatbots will come expensive; however, the maintenance wouldn't cost much compared to the remuneration offered to customer service professionals. Second, reduce costs will pave the way for paying high amounts to specialists at eminent seats. With regard to a technicality, chatbots will be swifter, rational, creative, innovative, and empathetic—all of which contribute to increased customer satisfaction and exponential ROI.
 
 ### Three things we have learned from customer service AI
 
