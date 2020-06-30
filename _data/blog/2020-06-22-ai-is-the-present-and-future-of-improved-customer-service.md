@@ -58,9 +58,7 @@ Now, this doesn't come as a surprise because chatbots are performing exceptional
 
 ### Generation of exponential ROI
 
-The inclusion of chatbots will point towards decreased payroll costs and increased competence. First off, chatbots will come expensive; however, the maintenance wouldn't cost much compared to the remuneration offered to customer service professionals. Second, reduce costs will pave the way for paying high amounts to specialists at eminent seats. With regard to technicality, chatbots will be swifter, rational, creative, innovative, and empathetic—all of which contribute to increased customer satisfaction and exponential ROI.
-
-![AI](/assets/ai-service.jpg "AI CUSTOMER SUPPORT")
+The inclusion of chatbots will point towards decreased payroll costs and increased competence. First off, chatbots will come expensive; however, the maintenance wouldn't cost much compared to the remuneration offered to customer service professionals. Second, reduce costs will pave the way for paying high amounts to specialists at eminent seats. With regard to a technicality, chatbots will be swifter, rational, creative, innovative, and empathetic—all of which contribute to increased customer satisfaction and exponential ROI.
 
 ### Three things we have learned from customer service AI
 
