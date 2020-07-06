@@ -69,6 +69,7 @@ The inclusion of chatbots will point towards decreased payroll costs and increas
 
 All-in-all, your venture will align with your mission and vision—all thanks to the successful integration of customer service and AI.
 
+<html
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="harmeet-singh-402aa3160"><a class="LI-simple-link" href='https://in.linkedin.com/in/harmeet-singh-402aa3160?trk=profile-badge'>Harmeet Singh</a></div>
