@@ -3,10 +3,11 @@ template: BlogPost
 path: /ai-present-future-improved-customer-service
 date: 2020-06-22T19:17:14.066Z
 title: AI is the Present and Future of Improved Customer Service
-metaDescription: Businesses highly prioritize customer satisfaction, which
-  presents an opportunity for AI to dominate the domain. By adding AI-powered
-  chatbots and virtual assistants to the ranks, businesses can work in favor of
-  their ever-desired objective—brand reputation.
+metaDescription: >-
+  Businesses highly prioritize customer satisfaction, which presents an
+  opportunity for AI to dominate the domain. By adding AI-powered chatbots and
+  virtual assistants to the ranks, businesses can work in favor of their
+  ever-desired objective—brand reputation.
 thumbnail: /assets/ai-service.jpg
 ---
 You know the world is changing when a hologram pop star, named <i>Hatsune Miku</i>—driven by an AI autotuning (vocoder), attracts thousands to concerts around the world and actually becomes a singing sensation. Now that's something we never expected, however, a lot of unexpected has taken shape since the conception of Artificial Intelligence. Expected to cross the $200 billion mark in the next five years, AI has already laid the foundation for utmost integration with the human world.
@@ -67,3 +68,7 @@ The inclusion of chatbots will point towards decreased payroll costs and increas
 3. Your business will witness a growth that you have always envisioned. The ROI will grow exponentially, and you'll be able to satisfy customers at an unprecedented rate.
 
 All-in-all, your venture will align with your mission and vision—all thanks to the successful integration of customer service and AI.
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="harmeet-singh-402aa3160"><a class="LI-simple-link" href='https://in.linkedin.com/in/harmeet-singh-402aa3160?trk=profile-badge'>Harmeet Singh</a></div>
