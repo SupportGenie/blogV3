@@ -10,8 +10,10 @@ metaDescription: >-
   ever-desired objective—brand reputation.
 thumbnail: /assets/ai-service.jpg
 ---
+```
 <html
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+```
 
 You know the world is changing when a hologram pop star, named <i>Hatsune Miku</i>—driven by an AI autotuning (vocoder), attracts thousands to concerts around the world and actually becomes a singing sensation. Now that's something we never expected, however, a lot of unexpected has taken shape since the conception of Artificial Intelligence. Expected to cross the $200 billion mark in the next five years, AI has already laid the foundation for utmost integration with the human world.
 
@@ -38,7 +40,7 @@ Businesses highly prioritize customer satisfaction, which presents an opportunit
 5. **Urgency detection:** That's right; AI is capable of prioritizing the issues and responding to them in quick succession. This is where AI acts as a prominent tool for customer agents.
 6. **Email regulation:** AI further strengthens the distribution system of emails by tagging them according to the intensity and urgency of the issue. By doing this, it constrains the customer agent solely to resolving the issue and reduces his or her workload.
 
-It is noteworthy that AI presents a win-win scenario for *Human-Technology collaboration* as well as entirely *Technology Dedicated Customer Service.*
+It is noteworthy that AI presents a win-win scenario for _Human-Technology collaboration_ as well as entirely _Technology Dedicated Customer Service._
 
 ### What is the future of AI in customer service?
 
@@ -72,7 +74,7 @@ The inclusion of chatbots will point towards decreased payroll costs and increas
 
 All-in-all, your venture will align with your mission and vision—all thanks to the successful integration of customer service and AI.
 
-
-
+```
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="harmeet-singh-402aa3160"><a class="LI-simple-link" href='https://in.linkedin.com/in/harmeet-singh-402aa3160?trk=profile-badge'>Harmeet Singh</a></div>
 </html>
+```
