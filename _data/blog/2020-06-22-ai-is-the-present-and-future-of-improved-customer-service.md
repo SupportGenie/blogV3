@@ -10,6 +10,9 @@ metaDescription: >-
   ever-desired objective—brand reputation.
 thumbnail: /assets/ai-service.jpg
 ---
+<html
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 You know the world is changing when a hologram pop star, named <i>Hatsune Miku</i>—driven by an AI autotuning (vocoder), attracts thousands to concerts around the world and actually becomes a singing sensation. Now that's something we never expected, however, a lot of unexpected has taken shape since the conception of Artificial Intelligence. Expected to cross the $200 billion mark in the next five years, AI has already laid the foundation for utmost integration with the human world.
 
 Favorably, the customer services domain is no alien to such growth. The relationship between customer service and AI has long been associated with improved customer satisfaction and a boost in productivity. For this precise reason, this article endeavors to explore their fruitful connection and the perceived opportunities for futuristic innovations.
@@ -69,7 +72,7 @@ The inclusion of chatbots will point towards decreased payroll costs and increas
 
 All-in-all, your venture will align with your mission and vision—all thanks to the successful integration of customer service and AI.
 
-<html
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="harmeet-singh-402aa3160"><a class="LI-simple-link" href='https://in.linkedin.com/in/harmeet-singh-402aa3160?trk=profile-badge'>Harmeet Singh</a></div>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="harmeet-singh-402aa3160"><a class="LI-simple-link" href='https://in.linkedin.com/in/harmeet-singh-402aa3160?trk=profile-badge'>Harmeet Singh</a></div>
+</html>
