@@ -8,10 +8,11 @@ metaDescription: >-
   opportunity for AI to dominate the domain. By adding AI-powered chatbots and
   virtual assistants to the ranks, businesses can work in favor of their
   ever-desired objective—brand reputation.
-thumbnail: /assets/ai-service.jpg
+thumbnail: /assets/supportgenie-ai-present-future-improved-customer-service.png
 ---
-<html
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+By: Harmeet Singh
+
+
 
 You know the world is changing when a hologram pop star, named _Hatsune Miku_—driven by an AI autotuning (vocoder), attracts thousands to concerts around the world and actually becomes a singing sensation. Now that's something we never expected, however, a lot of unexpected has taken shape since the conception of Artificial Intelligence. Expected to cross the $200 billion mark in the next five years, AI has already laid the foundation for utmost integration with the human world.
 
@@ -72,4 +73,10 @@ The inclusion of chatbots will point towards decreased payroll costs and increas
 
 All-in-all, your venture will align with your mission and vision—all thanks to the successful integration of customer service and AI.
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="harmeet-singh-402aa3160"><a class="LI-simple-link" href='https://in.linkedin.com/in/harmeet-singh-402aa3160?trk=profile-badge'>Harmeet Singh</a></div>
+
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+
+
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="harmeet-singh-402aa3160"><a class="LI-simple-link" href='https://in.linkedin.com/in/harmeet-singh-402aa3160?trk=profile-badge'>Harmeet Singh</a></div>
