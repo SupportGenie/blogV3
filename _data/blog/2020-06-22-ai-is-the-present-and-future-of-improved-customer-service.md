@@ -73,4 +73,4 @@ The inclusion of chatbots will point towards decreased payroll costs and increas
 
 All-in-all, your venture will align with your mission and vision—all thanks to the successful integration of customer service and AI.
 
-![harmeet-singh-linkedin-profile](/assets/harmeet-singh-linkedin-profile.png "Harmeet Singh")
+![harmeet-singh-linkedin-profile](/assets/harmeet-singh-linkedin.png "Harmeet Singh")
