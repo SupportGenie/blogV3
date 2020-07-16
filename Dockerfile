@@ -16,4 +16,4 @@ COPY . .
 
 RUN gatsby build; exit 0
 
-CMD ["/bin/bash", "-c", "gatsby serve --host 0.0.0.0 --port 9005"]
+CMD ["/bin/bash", "-c", "gatsby develop --host 0.0.0.0 --port 9005"]
