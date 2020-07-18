@@ -1,3 +1,10 @@
-node_modules
-build
-package-*
+*
+!src
+!static
+!package.json
+!yarn.lock
+!gatsby-config.js
+!gatsby-node.js
+!gatsby-browser.js
+!site-meta-data.json
+!_data

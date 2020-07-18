@@ -1,6 +1,6 @@
-FROM node:14.5-alpine3.10
+FROM node:10.21-alpine3.9
 
-EXPOSE 9005
+EXPOSE 9000
 
 WORKDIR /usr/src/blog
 
@@ -14,6 +14,9 @@ RUN ["/bin/bash","-c","npm i"]
 
 COPY . .
 
-RUN gatsby build; exit 0
+RUN npm run build
+CMD ["/bin/bash", "-c", "npm run serve"]
 
-CMD ["/bin/bash", "-c", "gatsby serve --host 0.0.0.0 --port 9005"]
+#RUN gatsby build; exit 0
+
+#CMD ["/bin/bash", "-c", "gatsby serve --host 0.0.0.0 --port 9005"]
