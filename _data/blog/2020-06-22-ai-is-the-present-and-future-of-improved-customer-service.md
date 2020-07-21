@@ -10,6 +10,8 @@ metaDescription: >-
   ever-desired objective—brand reputation.
 thumbnail: /assets/supportgenie-ai-present-future-improved-customer-service.png
 ---
+# AI is the Present and Future of Improved Customer Service
+
 By: [Harmeet Singh](https://www.linkedin.com/in/harmeet-singh-402aa3160)
 
 You know the world is changing when a hologram pop star, named _Hatsune Miku_—driven by an AI autotuning (vocoder), attracts thousands to concerts around the world and actually becomes a singing sensation. Now that's something we never expected, however, a lot of unexpected has taken shape since the conception of Artificial Intelligence. Expected to cross the $200 billion mark in the next five years, AI has already laid the foundation for utmost integration with the human world.
