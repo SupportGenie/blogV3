@@ -55,24 +55,26 @@ Chatbots can be helping tools as well as virtual humans. For this precise reason
 
 **4.	Saving additional costs:** This is in direct association with the aforementioned aspect. Because the customer service domain is one of the busiest, organizations need to recruit and administer a considerable workforce. Considering the fact that chatbots exist in the present day, the money spent by these firms appears to be ill-directed. In short, invest in chatbots and expect the ROI to increase significantly. 
 
-Chatbots influence the customer experience
+## Chatbots influence the customer experience
 
 The surroundings enriched with the regulation of digital media and the prominence of social media reflect upon the changing user behavior. The same applies to the case of chatbots, which are no more oblivious to the common eye. In simple words, the existence of numerous chatbots in the market has actually scaled the expectations and trust in customer support. 
 
-_**The changing customer feels**_
+**_The changing customer feels_**
 
 A decade ago, hardly anyone nodded to the thought of resolving problems using an Internet bot. The scenario, however, has significantly changed since then, and people are more inclined towards using chatbots for their daily requirements. 
 
-_**Strong belief on productivity**_
+**_Strong belief on productivity_**
 
 Because chatbots successfully engage the consumers by enabling them to access diverse content, they are gradually being assigned the virtue "productivity." These programs associate relevant and authentic information on the web with the consumer's requirements and, thus, prove them about their effectiveness and efficiency. 
 
-_**The rising gratification**_
+**_The rising gratification_**
 
 Why do people use Instagram? Presumably, because this social networking site facilitates seamless interaction and satisfies people's specific needs. This is exactly what chatbots manage to do when they support the consumer's short-term objectives. 
 
-_**A source of motivation and enhanced engagement**_
+**_A source of motivation and enhanced engagement_**
 
 Numerous people like Mr. X find it feasible to talk to a chatbot. Simply put, the human's digital emulation, with its consistently learning potential, intrigues the consumers. Hence, people feel motivated to return to these programs to resolve their problems. 
 
 "Chatbots can make an exact replica of the human experience" can be a statement that might appear exaggerated at the moment. However, considering the modern-growth, current scenario of organizational functioning, and the possibilities within the domain of AI, these programs can be the most powerful tools to empower the customer service sector in the forthcoming days. Their contribution to the changing consumer expectations and the overall experience further strengthens their current stance pertaining to being the most time-serving technology.
+
+![](/assets/harmeet-singh-linkedin.png)
