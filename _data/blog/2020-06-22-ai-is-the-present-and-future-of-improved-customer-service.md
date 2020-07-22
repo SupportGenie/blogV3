@@ -10,7 +10,7 @@ metaDescription: >-
   ever-desired objective—brand reputation.
 thumbnail: /assets/supportgenie-ai-present-future-improved-customer-service.png
 ---
-# AI is the Present and Future of Improved Customer Service
+# **AI is the Present and Future of Improved Customer Service**
 
 By: [Harmeet Singh](https://www.linkedin.com/in/harmeet-singh-402aa3160)
 
