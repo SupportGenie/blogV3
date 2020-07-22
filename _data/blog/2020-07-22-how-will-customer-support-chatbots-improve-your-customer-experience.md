@@ -15,9 +15,11 @@ And AI said, "Let there be human emulation," and Chatbots appeared on the world 
 
 The enhancer, in the present day, presents itself in the name of Chatbot—chatting + robot. You all know it from somewhere. Don't you? What about your regular Google assistant or the widely proclaimed Siri working under your belt as your virtual partner? For long, these virtual assistants have been presenting themselves as win-win representatives for customer support. Most importantly, you know them so well.
 
-Thus, all-in-all, we are talking about bringing in these Internet bots to give you a world-class experience while you strive to solve your problem. Not as unexpected as it appears to be. Isn't it? But admittedly—extraordinary. 
+Thus, all-in-all, we are talking about bringing in these Internet bots to give you a world-class experience while you strive to solve your problem. Not as unexpected as it appears to be. Isn't it? But admittedly—extraordinary.
 
-## First off, let's understand the sophistication of chatbots
+
+
+## **First off, let's understand the sophistication of chatbots**
 
 In straightforward terms, chatbots are computer programs designed specifically to emulate humans. This is done by saturating these programs by:
 
@@ -43,7 +45,9 @@ _Anyways, everything remained the same except the bot's responses, which were mo
 
 It did that by learning from previous conversations. Such systems, which have been prepared to understand human emotions, can consistently improve—a fact liked by all the prominent entrepreneurs of the world and, unsurprisingly, by Mr. X. 
 
-## How Are Customer Service Chatbots Redefining Support?
+
+
+## **How Are Customer Service Chatbots Redefining Support?**
 
 Chatbots can be helping tools as well as virtual humans. For this precise reason, the possibilities of their success cannot be scaled. Nevertheless, the baseline for the same can be put into words. 
 
@@ -53,9 +57,11 @@ Chatbots can be helping tools as well as virtual humans. For this precise reason
 
 **3.	Defining the word "availability":** Now, this is something that overpowers every predicament that opposes the consolidation of customer service chatbots. No human can be available for 24*7 and 7 days a week. It's only possible when the organization invests in hiring night- and weekend-shift staff. However, a chatbot can achieve this feat, and you know that. Programs never get exhausted, period.
 
-**4.	Saving additional costs:** This is in direct association with the aforementioned aspect. Because the customer service domain is one of the busiest, organizations need to recruit and administer a considerable workforce. Considering the fact that chatbots exist in the present day, the money spent by these firms appears to be ill-directed. In short, invest in chatbots and expect the ROI to increase significantly. 
+**4.	Saving additional costs:** This is in direct association with the aforementioned aspect. Because the customer service domain is one of the busiest, organizations need to recruit and administer a considerable workforce. Considering the fact that chatbots exist in the present day, the money spent by these firms appears to be ill-directed. In short, invest in chatbots and expect the ROI to increase significantly.
 
-## Chatbots influence the customer experience
+
+
+## **Chatbots influence the customer experience**
 
 The surroundings enriched with the regulation of digital media and the prominence of social media reflect upon the changing user behavior. The same applies to the case of chatbots, which are no more oblivious to the common eye. In simple words, the existence of numerous chatbots in the market has actually scaled the expectations and trust in customer support. 
 
