@@ -85,4 +85,4 @@ Numerous people like Mr. X find it feasible to talk to a chatbot. Simply put, th
 
 "Chatbots can make an exact replica of the human experience" can be a statement that might appear exaggerated at the moment. However, considering the modern-growth, current scenario of organizational functioning, and the possibilities within the domain of AI, these programs can be the most powerful tools to empower the customer service sector in the forthcoming days. Their contribution to the changing consumer expectations and the overall experience further strengthens their current stance pertaining to being the most time-serving technology.
 
-![](/assets/harmeet-singh-linkedin.png)
+![harmeet-singh-support-genie](/assets/harmeet-singh-linkedin.png "Harmeet Singh")
