@@ -28,6 +28,8 @@ But this is not all for justifying the use of AI in customer service. The custom
 
 All the preceding factors contribute to the notion of AI, where Machine Learning (ML) and Natural Language Processing (NLP) administer the proceedings. AI is reflective of an ideal technology that can listen, respond, and deliver in reasonably quick succession.
 
+![How-can-business-use-ai-customer-service](/assets/untitled-2-01.png "How can businesses make use of AI in customer service?")
+
 ### How can businesses make use of AI in customer service?
 
 Businesses highly prioritize customer satisfaction, which presents an opportunity for AI to dominate the domain. By adding AI-powered chatbots and virtual assistants to the ranks, businesses can work in favor of their ever-desired objective—brand reputation.
@@ -78,6 +80,7 @@ All-in-all, your venture will align with your mission and vision—all thanks to
 <!--Zoho Campaigns Web-Optin Form's Header Code Starts Here-->
 
 <script type="text/javascript" src="https://publ.maillist-manage.com/js/optin.min.js" onload="setupSF('sfa3e251e879e810faf1fdd388070fea6dae6364a62834cb22','ZCFORMVIEW',false,'light',false,'0')"></script>
+
 <script type="text/javascript">
 	function runOnFormSubmit_sfa3e251e879e810faf1fdd388070fea6dae6364a62834cb22(th){
 		/*Before submit, if you want to trigger your event, "include your code here"*/
@@ -171,6 +174,7 @@ All-in-all, your venture will align with your mission and vision—all thanks to
 </div>
 
 <!--Zoho Campaigns Web-Optin Form Ends Here-->
+
 <p>
 
 ![harmeet-singh-linkedin-profile](/assets/harmeet-singh-linkedin.png "Harmeet Singh")
