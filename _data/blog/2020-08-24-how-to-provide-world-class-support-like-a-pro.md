@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /how-to-provide-world-class-support-like-a-pro
-date: 2020-08-25T03:58:44.461Z
+date: 2020-09-21T07:58:00.000Z
 title: How To Provide World Class Support Like a Pro
 thumbnail: /assets/blog-post-01.png
 ---
