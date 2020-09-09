@@ -13,6 +13,8 @@ thumbnail: /assets/blog-post-01.png
 ---
 # How to Provide World Class Support like a Pro
 
+
+
 By: Harmeet Singh
 
 Customer service is an integral yet less valued part of any business. There is a common misconception about customer service departments having the most unoccupied labor. Hardcore customer service professionals define their role as critical as any programmer, a marketer or any finance officer within an organization.
@@ -27,15 +29,11 @@ Many customer satisfaction studies and surveys have estimated that around 60% of
 
 However, the world needs to learn from selective giants that have laid down beautiful principles of customer service by offering customer support amalgamated with AI. Here’s how you too can achieve customer loyalty and brand recognition, just by delivering the right kind of customer support.
 
-
-
 ## Respond to Each Line, Don’t Ignore
 
 A customer support professional knows every answer all the time. Hence, it is often seen that customers get their questions either half answered or not answered at all. To overcome this, there should be a clear set of rules in the e-mail client or **customer service tool** to help automate forwarding requests to the proper department at the right time (that starts as soon as the customer query comes in).
 
 Do NOT ignore customer questions at all! If you do, they will ignore you and you know what it means and how much it may cost to your business. 
-
-
 
 ## Integrate Technology, Adopt AI
 
@@ -45,21 +43,15 @@ Integrated AI technology allows customers to reap the maximum benefit of a LIVE 
 
 Automate your process by sending automatic emails pertaining to receiving requests, work in progress and resolved requests. Do NOT keep them wondering about the query that they made last. Integrate automation.
 
-
-
 ## Encourage Feedback
 
 Never really push your customers but utilize the power of automation by requesting feedback. This instills a thought that says, ‘you care’. You really do, probably this is the reason why you are investing time in learning tactics of delivering a world-class experience. So, go ahead and ask for feedback from your customer, whether, it is after sales or after a query resolution. Do NOT forget to take feedback, just don’t push them, I insist!
-
-
 
 ## Quality Over Quantity
 
 Most disadvantageous can be the judgment of customer service personnel on the basis of queries resolved, rather, it should be the type(s) of queries resolved. Every individual is different, hence, there can be people who are quick and efficient while others can be intense problem solvers and may be some that can pacify the problem customers best.
 
 Identify and pick among your agents to resolve specific customer requests as per their capabilities and not according to a set monopoly. This will drive quality conversations among your customers and support agents which can further increase customer relations.
-
-
 
 ## Empower Support Agents
 
