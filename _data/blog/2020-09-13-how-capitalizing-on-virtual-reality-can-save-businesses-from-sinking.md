@@ -44,8 +44,10 @@ VR is helping retail stores exhibit and facilitate the launch of new products, b
 
 If we talk about the future of Virtual Reality, it is going to replenish the history of entire customer service, all for its own good. Although the implementation at first may appear a bit ‘huge on the pocket’ but as this **customer support tool** continues growing with AI, can become an asset on improving the customer experience in real-time. You should always remember that satisfied customers set a base for self-promotion through ‘word of mouth’ publicity. That saves huge money for any business in the longer run. As older as your VR support may turn, as efficiently it may progress in the number of queries it can address with complete resolution.
 
+<html>
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="tp3208"><a class="LI-simple-link" href='https://www.linkedin.com/in/tp3208?trk=profile-badge'>Tarun Prakash</a></div>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="moyloza"><a class="LI-simple-link" href='https://www.linkedin.com/in/moyloza?trk=profile-badge'>MC L.</a></div>
+<html>
