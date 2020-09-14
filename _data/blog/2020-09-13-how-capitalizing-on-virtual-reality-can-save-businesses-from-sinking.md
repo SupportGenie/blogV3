@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /how-capitalizing-on-virtual-reality-can-save-business-from-sinking
-date: 2020-09-14T10:00:00.000Z
+date: 2020-09-14T01:00:00.000Z
 title: How Capitalizing On Virtual Reality Can Save Businesses from Sinking?
 metaDescription: >-
   Consumers face support issues due COVID-19 related restrictions. Competitors
