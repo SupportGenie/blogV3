@@ -22,6 +22,8 @@ Everywhere around the globe, consumers are facing issues with prompt action on t
 
 Many companies have shut their business, completely or partially, leading to sustainability issues. At the same time, the customer base has shifted to their competitors who have been quick in offering advanced **tech support solutions** that utilize Artificial Intelligence. The use of **live software** support through remote assistance has helped many businesses in performing even better with or without human involvement.
 
+<center><img src="https://supportgenie.io/static/laptop_illustration-55b23d30c8599cf2da7d879beafc59cc.png" alt="Support Genie support solution" width="400">
+
 Companies have struggled with deploying Virtual Reality due to several reasons that majorly involves a cultural resistance to change and fear of eliminating human capital. It’s critical for a business to understand that technology is invented to support a human function rather than overtaking human roles. Remote assistance through VR has allowed support agents to offer assistance regardless of their location. For example, if your customer wants to set up a TV remote for his newly bought smart television and is unable to do so himself. He can simply get a real-time guidance through virtual assistance, which is quicker and much more efficient. It allows the support agent to demonstrate the step-by-step procedures of installation for the customer using a real-time application.
 
 It is a proven fact that humans learn more effectively by observation rather than reading. VR performs over the limitation of a mere **computer software** to enable read only support. The real estate industry is currently setting a big example of rendering A-class customer service through VR.
