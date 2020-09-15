@@ -7,7 +7,7 @@ metaDescription: >-
   Automate now to curb trends and save time, standardize procedures, increase
   potential and predictive analysis with the deployment of new technologies.
   Here is how?
-thumbnail: /assets/utomation-technology-that-can-help-startup-save-money-now.png
+thumbnail: /assets/automation-technology-that-can-help-startup-save-money-now.png
 ---
 # Automation — the technology that can help your startup save money in 2020
 
