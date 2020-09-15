@@ -4,10 +4,9 @@ path: /ai-present-future-improved-customer-service
 date: 2020-06-22T19:17:14.066Z
 title: AI is the Present and Future of Improved Customer Service
 metaDescription: >-
-  Businesses highly prioritize customer satisfaction, which presents an
-  opportunity for AI to dominate the domain. By adding AI-powered chatbots and
-  virtual assistants to the ranks, businesses can work in favor of their
-  ever-desired objective—brand reputation.
+  Prioritizing customer satisfaction presents an opportunity for AI to dominate.
+  AI-powered chatbots and virtual assistants can work in favor of their
+  ever-desired objective.
 thumbnail: /assets/supportgenie-ai-present-future-improved-customer-service.png
 ---
 # **AI is the Present and Future of Improved Customer Service**
