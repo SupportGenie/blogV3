@@ -11,7 +11,7 @@ thumbnail: /assets/automation-technology-that-can-help-startup-save-money-now.pn
 ---
 # Automation — the technology that can help your startup save money in 2020
 
-By: [Harmeet Singh](https://www.linkedin.com/in/harmeet-singh-402aa3160)
+### By: [Harmeet Singh](https://www.linkedin.com/in/harmeet-singh-402aa3160)
 
 If ever there was a better time to automate your business. We'll tell you—It's RIGHT NOW. Everyone talks about the growing technology and changing trends. However, the concept of a massive audience remains oblivious to the common eye. Stress your view a little, and you'll locate people associated with your business in one way or the other.
 
@@ -98,8 +98,6 @@ For instance, automation tools can
 —predict patterns and consumer trends
 
 —analyze consumer behavior, etc.
-
-
 
 All these operations can make it easier for an individual to thoroughly understand the interests of the consumer and view the bigger picture.
 
