@@ -11,8 +11,6 @@ thumbnail: /assets/how-can-chatbots-save-your-business-money-today.jpg
 ---
 # How Can Chatbots Save Your Business Money Today?
 
-
-
 By: [Harmeet Singh](https://www.linkedin.com/in/harmeetwrites)
 
 Communication is consistently subjected to transitions. Sometimes, these developments go beyond common comprehension, and that's what leads to human evolution. 
@@ -79,4 +77,6 @@ The budgetary constraints during this pandemic further entail the businesses to 
 
 Thus, there's nothing better than going after a technology that can perform the redundant task without consistent investment. Identify the shift in customer behavior and accept the new normal in business interaction. Implement an automated chatbot for your website or application to offer the best customer experience and your company will save money today.
 
+<center>
 ![support-genie-harmeet-singh](/assets/harmeet-singh-linkedin.png "Support Genie Harmeet Singh")
+</center>
