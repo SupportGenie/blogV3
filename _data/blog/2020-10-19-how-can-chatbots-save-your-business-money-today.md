@@ -6,8 +6,6 @@ title: How Can Chatbots Save Your Business Money Today?
 ---
 By: [Harmeet Singh](https://www.linkedin.com/in/harmeetwrites)
 
-
-
 Communication is consistently subjected to transitions. Sometimes, these developments go beyond common comprehension, and that's what leads to human evolution. 
 
 There's no denying that the introduction to automation technology has given wings to numerous businesses out there. But has it done enough to enhance the interactions between businesses and their clients? 
@@ -62,7 +60,7 @@ By employing chatbots, you can direct your workforce into doing the operations t
 
 That way, you don't just save money but also enhance the working environment, thus, keeping the employees committed to their work.
 
-Last but not least, the investment into implementing a chatbot for your website or application is dependent on the developer you choose from. Support Genie, for instance, helps build customized chatbots for your business at marginal cost—FREE. 
+Last but not least, the investment into implementing a chatbot for your website or application is dependent on the developer you choose from. [Support Genie](https://supportgenie.io/?utm_source=how-can-chatbots-save-your-business-money-today&utm_medium=blog.supportgenie.io), for instance, helps build customized chatbots for your business at marginal cost—FREE. 
 
 ## Has COVID-19 influenced the implementation of chatbots?
 
@@ -71,3 +69,5 @@ Automation has always strengthened when humans have decided to switch to online 
 The budgetary constraints during this pandemic further entail the businesses to bring about interventions that can help save money in 2020. You won't want your budget to squeeze to the extent where it becomes critical to cut your robust services.
 
 Thus, there's nothing better than going after a technology that can perform the redundant task without consistent investment. Identify the shift in customer behavior and accept the new normal in business interaction. Implement an automated chatbot for your website or application to offer the best customer experience and your company will save money today.
+
+![support-genie-harmeet-singh](/assets/harmeet-singh-linkedin.png "Support Genie Harmeet Singh")
