@@ -7,6 +7,7 @@ metaDescription: >-
   Here is why deploying a chatbot today is the best solution to cater engage and
   improve the customer experience while saving your business money in the
   long-run.
+thumbnail: /assets/how-can-chatbots-save-your-business-money-today.jpg
 ---
 # How Can Chatbots Save Your Business Money Today?
 
