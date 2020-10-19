@@ -11,8 +11,6 @@ thumbnail: /assets/how-can-chatbots-save-your-business-money-today.jpg
 ---
 # How Can Chatbots Save Your Business Money Today?
 
-
-
 By: [Harmeet Singh](https://www.linkedin.com/in/harmeetwrites)
 
 Communication is consistently subjected to transitions. Sometimes, these developments go beyond common comprehension, and that's what leads to human evolution. 
@@ -21,7 +19,7 @@ There's no denying that the introduction to automation technology has given wing
 
 The answer to this question lies with the software that is soon going to embrace almost every company website on the Internet. It is known to the world by the name of CHATBOT. 
 
-The chatbot is easily one of the fastest-growing technologies that offer immense benefits a successful business. Most importantly, it is a pre-programmed software that your business must immediately incorporate if your motive is to grow and save money in 2020.
+The chatbot is easily one of the fastest-growing technologies that offer immense benefits to a successful business. Most importantly, it is a pre-programmed software that your business must immediately incorporate if your motive is to grow and save money in 2020.
 
 ## Why chatbots and why their benefits can't be ignored?
 
@@ -79,4 +77,6 @@ The budgetary constraints during this pandemic further entail the businesses to 
 
 Thus, there's nothing better than going after a technology that can perform the redundant task without consistent investment. Identify the shift in customer behavior and accept the new normal in business interaction. Implement an automated chatbot for your website or application to offer the best customer experience and your company will save money today.
 
-![support-genie-harmeet-singh](/assets/harmeet-singh-linkedin.png "Support Genie Harmeet Singh")
+<center>
+!\[support-genie-harmeet-singh](/assets/harmeet-singh-linkedin.png "Support Genie Harmeet Singh")
+</center>
