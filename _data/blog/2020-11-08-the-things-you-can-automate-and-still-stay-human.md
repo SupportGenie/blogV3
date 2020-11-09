@@ -1,12 +1,15 @@
 ---
 template: BlogPost
 path: /things-you-can-automate-and-still-stay-human
-date: 2020-11-08T23:34:29.711Z
+date: 2020-10-26T22:34:29.711Z
 title: The Things You Can Automate and Still Stay Human
+metaDescription: >-
+  Human performance has increased with automation while meeting the challenges
+  of classifying the jobs that can be automated without compromising the
+  workforce.
+thumbnail: /assets/blog-post-01.png
 ---
 # The Things You Can Automate and Still Stay Human
-
-
 
 By: Harmeet Singh
 
@@ -14,9 +17,9 @@ Whenever automation takes center stage, the audience responds with wonderment on
 
 However, assuming that humans will be replaced is nothing but baseless conjecture. Let me ask you:
 
-_**Did the 18th-century industrialization disregard the human touch?**_
+**_Did the 18th-century industrialization disregard the human touch?_**
 
-_**Did the late 20th-century technological revolution discard human creativity?**_ 
+**_Did the late 20th-century technological revolution discard human creativity?_** 
 
 Have the first two decades of the 21st century replaced the competent human workforce with the long-anticipated robots?
 
@@ -28,7 +31,7 @@ If anything has changed, that's performance. With the advent of automation, huma
 
 AI-powered systems are gifted with great cognitive skills, which makes them useful for a number of things. These things reflect upon the tasks which require the utmost level of concentration and are redundant in nature. A typical example of such a task is data analytics i.e., analyzing massive chunks of unstructured and repetitive data to create patterns and trends valuable for developing excellent recommendation systems for consumers.
 
-Likewise, numerous big/small and complex/simple repetitive tasks can be automated to eliminate the need of the human brain and employ it in other VALUABLE activities. I'm talking about task reservations and not about a human replacement—point to be noted. 
+Likewise, numerous big/small and complex/simple repetitive tasks can be automated to eliminate the need of the human brain and employ it in other VALUABLE activities. I'm talking about task reservations and not about a human replacement—point to be noted. 
 
 For instance, let's say that you work in the customer support industry. Your daily routine includes analyzing the consumer trends, prioritizing the emails, directing them towards respective sectors, etc. Your job profile, however, requires you to be innovative at developing recommendations that can intrigue the users. But you simply don't have time for the most important thing.
 
@@ -42,7 +45,7 @@ Think of AI as the assistant that eases your workload and engages you in the wor
 
 Businesses are often perplexed about the aspects they should automate. This is because several recommendations and promotions pour in whenever help desk automation comes into the picture. 
 
-_**Response**_
+**_Response_**
 
 It is reasonable to start from the first level of your business. Primarily, the interaction between you and your clients. Because you are not the only one in your niche, you have to respond fast. For that, you can bring in an automated chatbot for the website. As soon as the client opens the message box, the chatbot starts the conversation and directs them according to their inquiries. This way, your customer knows that your business is responsive and is also swift to respond.
 
@@ -50,7 +53,7 @@ In addition to that, you can automate inquiries related to your company's inform
 
 Remember, the first impression is the last impression. Don't leave any stone unturned in developing an effective communication funnel.
 
-_**The Sales Pipeline**_
+**_The Sales Pipeline_**
 
 It is difficult to say which lead will convert into a potential customer and whether any lead is ready for becoming the customer in the first place. That's why it is essential that a proper approach to the administering of leads is put in place.  
 
@@ -62,7 +65,7 @@ This is precisely where automation can bring about positive disruption. For inst
 
 For answering this, it's important that we know what the term 'lead scoring' is. In simple words, it is the measurement of a lead's readiness to convert. With efficient automated software in place, lead scoring is something that can be readily achieved. As soon as you identify the prioritized leads, you can always employ professionals to strengthen communication.
 
-_**Marketing**_
+**_Marketing_**
 
 This is one of the most conspicuous domains of industrial automation for two reasons:
 
@@ -75,14 +78,12 @@ Another vivid example of marketing automation is email marketing. As explained a
 
 In broad terms, you can entirely automate your marketing strategy for nurturing leads. 
 
-_**Customer Support**_
+**_Customer Support_**
 
 Out of all industries, customer support is a sector that confronts immense workload because it is highly active. For that reason, it is viable to automate certain things, including follows ups, behavior prediction, conversation transfer, feedback requests, etc. 
 
 An automated chatbot, for instance, can bridge the gap between customers and the customer support representative by seamless transfer of call or message. Other automated technologies can garner insights about consumer's behavior so that the representative is aware of the things that can engage the customer instantly. 
 
 It has been observed that the integration of automated software in customer support has led to increased customer satisfaction and reduction of workload. Both customers and employees appear content with the proceedings, which is want a company aspires to achieve. Thus, automation in customer support paves the way for a win-win scenario.
-
-## **Recap**
 
 Automation is, undoubtedly, the disruptive force that is in the process of revolutionizing the organizational sector. However, it has to be used for complementing the existing system and not replacing it. Simply put, you wouldn't want to trade creativity, innovation, and empathy for consistency and intelligence. Instead, what you should do is understand both these sides as your arms in the highly competitive market.
