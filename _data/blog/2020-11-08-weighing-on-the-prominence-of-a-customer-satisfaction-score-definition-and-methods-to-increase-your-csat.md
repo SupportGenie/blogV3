@@ -14,7 +14,7 @@ thumbnail: /assets/weighing-prominence-customer-satisfaction-score-definition-me
 ---
 # Weighing on the Prominence of a Customer Satisfaction Score: Definition and Methods to Increase Your CSAT.
 
-By: Harmeet Singh
+By: [Harmeet Singh](https://www.linkedin.com/in/harmeet-singh-402aa3160)
 
 What's the principal driving force for a company? Without a doubt, it's HAPPY CUSTOMERS. 
 
@@ -32,21 +32,21 @@ This article explicitly addresses the latter issue and, in doing so, sheds light
 
 ## First off, why is Customer Satisfaction essential for your business?
 
-_**Satisfied customers are advertisers of your business. How?**_ 
+**_Satisfied customers are advertisers of your business. How?_** 
 
 Satisfied customers indicate that the company has put in extra effort and resources to provide the best output. In short, they consider your business a successful venture. As a result, they talk about your business to their peers and immediate connections.
 
-_**Satisfied customers enhance your brand's reputation. Really! How?**_
+**_Satisfied customers enhance your brand's reputation. Really! How?_**
 
 If I'm a loyal and committed customer of a perfume manufacturer, I'll prioritize doing business with them. At the same time, I'll keep perpetuating the positives of my preferred brand. In other words, I, as a loyal customer, will act as a catalyst to potentially multiply the business's audience.
 
-**_Satisfied customers never leave you_**
+_**Satisfied customers never leave you**_
 
 This is a UNIVERSAL TRUTH. In the aforementioned scenario, I'' keep visiting the perfume manufacturer for my requirements. In other words, the perfume manufacturer will be able to retain me. Businesses that are capable of retaining customers reflect on the utmost level of professionalism. At the same time, the loyal consumer base acts as a catalyst to potentially multiplying the audience. 
 
 These facets demonstrate that the essentiality of customer satisfaction for your business's progress can't be stressed enough. 
 
-**_Embrace the Tip: A satisfied customer is east to cater to than attracting a new one. Sure, you want to increase your customer base exponentially; however, that entails making a system that can treat them right for a prolonged period. Simply put, don't forget your customer after a single deal—treat them sincerely—better your revenue._**
+_**Embrace the Tip: A satisfied customer is east to cater to than attracting a new one. Sure, you want to increase your customer base exponentially; however, that entails making a system that can treat them right for a prolonged period. Simply put, don't forget your customer after a single deal—treat them sincerely—better your revenue.**_
 
 _<br>_
 
