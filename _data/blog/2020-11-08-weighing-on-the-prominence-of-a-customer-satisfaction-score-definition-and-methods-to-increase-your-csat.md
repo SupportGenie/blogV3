@@ -27,25 +27,23 @@ This article explicitly addresses the latter issue and, in doing so, sheds light
 
 ## First off, why is Customer Satisfaction essential for your business?
 
-**_Satisfied customers are advertisers of your business. How?_** 
+_**Satisfied customers are advertisers of your business. How?**_ 
 
 Satisfied customers indicate that the company has put in extra effort and resources to provide the best output. In short, they consider your business a successful venture. As a result, they talk about your business to their peers and immediate connections.
 
-**_Satisfied customers enhance your brand's reputation. Really! How?_**
+_**Satisfied customers enhance your brand's reputation. Really! How?**_
 
 If I'm a loyal and committed customer of a perfume manufacturer, I'll prioritize doing business with them. At the same time, I'll keep perpetuating the positives of my preferred brand. In other words, I, as a loyal customer, will act as a catalyst to potentially multiply the business's audience.
 
-_**Satisfied customers never leave you**_
+**_Satisfied customers never leave you_**
 
 This is a UNIVERSAL TRUTH. In the aforementioned scenario, I'' keep visiting the perfume manufacturer for my requirements. In other words, the perfume manufacturer will be able to retain me. Businesses that are capable of retaining customers reflect on the utmost level of professionalism. At the same time, the loyal consumer base acts as a catalyst to potentially multiplying the audience. 
 
 These facets demonstrate that the essentiality of customer satisfaction for your business's progress can't be stressed enough. 
 
-<body style="background-color:powderblue;">
+**_Embrace the Tip: A satisfied customer is east to cater to than attracting a new one. Sure, you want to increase your customer base exponentially; however, that entails making a system that can treat them right for a prolonged period. Simply put, don't forget your customer after a single deal—treat them sincerely—better your revenue._**
 
-_**Embrace the Tip:** A satisfied customer is east to cater to than attracting a new one. Sure, you want to increase your customer base exponentially; however, that entails making a system that can treat them right for a prolonged period. Simply put, don't forget your customer after a single deal—treat them sincerely—better your revenue._
-
-</body>
+_<br>_
 
 ## Second, what is CSAT?
 
@@ -63,17 +61,11 @@ _CSAT average = Sum of scores of all the responses received ÷ Total number of r
 
 _CSAT % = (Number of positive responses ÷ Total number of responses received) X 100_ 
 
-How to gather these responses?
+## How to gather these responses?
 
 Well, they can be anything ranging from 1-3, 1-5, or even 1-10-star reviews about the customer service. Just mandate feedback after the service, and you'll get these scores from the consumers. 
 
 Some brands even add a qualitative factor to it. For instance, they add a question or two with 1-5 scale answers. That method is particularly beneficial for noticing the QoS of each aspect of the business.
-
-
-
-
-
- 
 
 CSAT's benefit over other methods is that the questions are easy to answer, and it takes seconds to complete them. Also, scores are easy to plot on a graph, which makes the assessment more straightforward, facilitates locating bottlenecks, and working on them. 
 
@@ -81,7 +73,7 @@ Along with these, customers feel valued when asked for feedback, which is always
 
 Finally, some suggestions to improve your CSAT score
 
-Build a customer-centric environment
+## Build a customer-centric environment
 
 By a customer-centric environment, I am referring to a workplace atmosphere where customers are valued. You, as the owner of the business, might be very inclined towards making the customers happy. However, the same couldn't be said about your employees.
 
@@ -89,15 +81,13 @@ Thus, you should invest your resources in training the staff about best practice
 
 Embedding points about customer satisfaction in orientations and policies is a go-to approach to let the employees know about the work culture that the business promotes. 
 
-Satisfy the employees to satisfy customers
+## Satisfy the employees to satisfy customers
 
 If your employees aren't content with the workplace culture, you won't be able to comply with your vision of a happy customer base. Naturally, your employees won't feel like giving their best, which will negatively influence the quality of services and products.
 
 Therefore, it is essential to make sure that your employees are happy and well-equipped to handle any problems that arise. And since they interact directly with the customers, it is always advisable to keep healthy communication channel between you and them intact. 
 
-
-
-Ask for detailed feedback, if possible
+## Ask for detailed feedback, if possible
 
 An amazing way to show your customer that they matter is by listening to what they want to say. After the customers have filled their customer satisfaction form (I'm assuming you've added the form to the feedback page. If not, do it now!), direct them towards elaborating their experience.
 
@@ -121,7 +111,7 @@ Why not use these reviews to your benefit? Carry out an in-depth analysis of the
 
 And if possible, interact as much as you can with the customers on social media because it lets them know that you're noticing. The BUSINESS's NOTICING. Believe me; it's a big thing—an opportunistic area. 
 
-Be proactive when it comes to customer support
+## Be proactive when it comes to customer support
 
 People across the world, and not just in the US, complain about the ill-customer support of several businesses. Take it both as a problem and an opportunity to act upon. 
 
@@ -137,9 +127,7 @@ Because these bots are able to handle redundancy and mathematical tasks, they le
 
 You see, Artificial Intelligence is the present and future of customer support (LINK TO THE RELEVANT ARTICLE).
 
-
-
-Conclusion
+## Conclusion
 
 Congratulations! Now, you have sufficient knowledge about keeping customers happy and improving your CSAT scores. As a business, there's a lot you can do with the resources at your disposal. Think of yourself as a customer, and you'll be good to go for satisfying your endeavors. 
 
