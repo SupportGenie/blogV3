@@ -6,6 +6,7 @@ date: 2020-11-03T04:36:00.000Z
 title: >-
   Weighing on the Prominence of a Customer Satisfaction Score: Definition and
   Methods To Increase Your CSAT.
+thumbnail: /assets/weighing-prominence-customer-satisfaction-score-definition-methods.png
 ---
 # Weighing on the Prominence of a Customer Satisfaction Score: Definition and Methods to Increase Your CSAT.
 
